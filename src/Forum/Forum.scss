@@ -1,0 +1,13 @@
+.forum{
+           padding: 10px 20px;
+            width: 100%;
+           display: flex;
+            .buttons {
+                display: flex;
+                justify-content: flex-end;
+                padding-right: 16px;
+                .btnPost {
+                    height: 40px;
+                }
+            }
+}

@@ -1,0 +1,25 @@
+.thread-footer {
+  width: 100%;
+   padding-left: 10px;
+   padding-bottom: 10px;
+    .space {
+        display: flex; 
+        justify-content: space-between;
+        align-items: center;
+        padding-right: 10px;
+    }
+    .comments {
+        font-size: 14px;
+        display: flex;
+        align-items: center;
+        color: #878a8c;
+    }
+    .btn {
+        display: flex; 
+         justify-content: flex-end;
+        .button {
+             display: flex;
+            
+        }
+    }
+}

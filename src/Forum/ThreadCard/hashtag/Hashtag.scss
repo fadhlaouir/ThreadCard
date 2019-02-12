@@ -1,0 +1,30 @@
+.hashtag{
+     border-radius: 25px;
+    background-color: #eeecff;
+    color:#2a4bd8;
+    width: 100px;
+    height: 30px;
+  
+    display: flex;
+    align-items: center;
+        font-size: 13px;
+        font-family: "Muli", sans-serif;
+    justify-content: center;
+    padding: 5px;
+    margin-left: 10px;
+
+    &:hover {
+        box-shadow: none;
+        background-color: #2a4bd8;
+        border-color: #2a4bd8;
+        
+         display: flex;
+            justify-items: center;
+            align-items: center;
+            color: white;
+            font-size: 13px;
+            font-family: "Muli", sans-serif;
+       
+    }
+
+}
